@@ -1,3 +1,3 @@
-module github.com/gektorpestarzt/mymath/v1
+module github.com/gektorpestarzt/mymath
 
 go 1.23.2
